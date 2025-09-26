@@ -510,7 +510,7 @@ label {
 /* =============== Services section =============== */
 
 .services-section {
-    background-image: url("/img/dark-background.jpg");
+    background-image: url("/img/dark-background.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -644,7 +644,7 @@ label {
     display: flex;
     justify-content: center;
     /* background: linear-gradient(135deg, #0a0a0a, #0f0f0f, #1a1a1a); */
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/img/animationbg.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/img/animationbg.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -826,7 +826,7 @@ label {
     position: relative;
     min-height: 350px;
     padding: 25vw 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/model-image.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/model-image.webp");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -848,7 +848,7 @@ label {
 /* =============== Footer =============== */
 
 footer {
-    padding: 15vw 4vw 5rem 4vw;
+    padding: 12vw 4vw 5rem 4vw;
     background-color: #000009;
     color: white;
 }
